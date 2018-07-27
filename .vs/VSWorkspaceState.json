@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\client\\java",
+    "\\src\\client\\java\\teammates",
+    "\\src\\client\\java\\teammates\\client",
+    "\\src\\client\\java\\teammates\\client\\remoteapi",
+    "\\src\\client\\java\\teammates\\client\\scripts",
+    "\\src\\main",
+    "\\src\\main\\webapp",
+    "\\src\\main\\webapp\\dev",
+    "\\src\\main\\webapp\\dev\\js"
+  ],
+  "SelectedNode": "\\src\\main\\webapp\\terms.jsp",
+  "PreviewInSolutionExplorer": false
+}
