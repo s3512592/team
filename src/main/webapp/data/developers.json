@@ -1680,16 +1680,29 @@
   ],
   "teammembers": [
     {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      "name": "Wentao Yan",
+      "url": "http://www.rmit.edu.au/~wentao",
+      "username": "wentao",
+=======
+>>>>>>> c5ae9c3567b738c5d9fdfd5004f565f957d2e507
       "name": "Chao Geng",
       "url": "http://www.comp.nus.edu.sg/~damithch/",
       "username": "damithc",
+>>>>>>> a682d7bcfb9c3d050f0b23afc0fdd1d25ac81f7f
       "image": "images/teammembers/damith.png",
       "currentPosition": "Founder, Project Mentor (2010 - )"
     },
     {
+<<<<<<< HEAD
       "name": "WenYan Tao",
+=======
+      "name": "XiaoTian Jiang",
+>>>>>>> c5ae9c3567b738c5d9fdfd5004f565f957d2e507
       "username": "wkurniawan07",
-      "image": "images/teammembers/wilson.png",
+      "image": "images/teammembers/shisyou.jpg",
       "currentPosition": "Project Mentor (Jun 2017 - )",
       "pastPositions": [
         "Project Lead (Jun 2016 - May 2017)",
@@ -1699,7 +1712,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "name": "XiaoTian Jiang",
+=======
+      "name": "WenTao Yan",
+>>>>>>> c5ae9c3567b738c5d9fdfd5004f565f957d2e507
       "username": "whipermr5",
       "image": "images/teammembers/john.png",
       "currentPosition": "Project Lead (Jan 2018 - )",
@@ -1710,7 +1727,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "name": "Terry",
+=======
+      "name": "ZiJun Lin",
+>>>>>>> c5ae9c3567b738c5d9fdfd5004f565f957d2e507
       "username": "leeyimin",
       "image": "images/teammembers/yimin.png",
       "currentPosition": "Area Lead (Aug 2017 - )",
