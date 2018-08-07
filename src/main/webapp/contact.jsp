@@ -23,4 +23,19 @@
       <b>Interested in joining us?:</b> Visit our <a href="https://github.com/TEAMMATES/teammates">Developer Website</a>.
     </p>
   </main>
+  <footer>
+    <section style="padding-left: 80%">
+      <ul style="style-list-stype:none">
+        <li>
+          <a href="https://www.facebook.com/"><img style="hight:4px;weight:4px" src="images/facebook.png"></a>
+        </li>
+        <li>
+          <a href="https://www.twitter.com/"><img style="hight:4px;weight:4px" src="images/twitter.png"></a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/"><img style="hight:4px;weight:4px" src="images/youtube.png"></a>
+        </li>
+      </ul>
+    </section>
+  </footer>
 </t:staticPage>
