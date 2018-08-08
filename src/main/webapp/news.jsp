@@ -4,7 +4,7 @@
 <t:staticPage currentPage="news">
   <main class="container">
     <h1 class="color-orange">
-      NEWS
+      -NEWS-
     </h1>
   </main>
 </t:staticPage>
