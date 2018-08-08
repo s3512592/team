@@ -25,9 +25,9 @@
   </main>
   <footer>
     <section style="padding-left: 80%">
-          <a href="https://www.facebook.com/"><img height="10px" weight="10px" src="images/facebook.png"></a>
-          <a href="https://www.twitter.com/"><img height="10px" weight="10px" src="images/twitter.png"></a>
-          <a href="https://www.youtube.com/"><img height="10px" weight="10px" src="images/youtube.png"></a>
+          <a href="https://www.facebook.com/"><img height="26px" weight="26px" src="images/facebook.png"></a>
+          <a href="https://www.twitter.com/"><img height="26px" weight="26px" src="images/twitter.png"></a>
+          <a href="https://www.youtube.com/"><img height="26px" weight="26px" src="images/youtube.png"></a>
     </section>
   </footer>
 </t:staticPage>
