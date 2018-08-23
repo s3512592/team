@@ -3,6 +3,16 @@
 <%@ taglib tagdir="/WEB-INF/tags" prefix="t" %>
 <t:staticPage currentPage="contact">
   <main class="container">
+
+
+      <div id="openweathermap-widget-11"></div>
+      <script src='//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/d3.min.js'></script><script>window.myWidgetParam ? window.myWidgetParam : window.myWidgetParam = [];  window.myWidgetParam.push({id: 11,cityid: '2158177',appid: 'a51a55783c408588a2a14c18ab2f948f',units: 'metric',containerid: 'openweathermap-widget-11',  });  (function() {var script = document.createElement('script');script.async = true;script.charset = "utf-8";script.src = "//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/weather-widget-generator.js";var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(script, s);  })();</script>
+      
+      
+      
+
+      
+      
     <h1 class="color-orange">
       Contact Us
     </h1>
@@ -23,6 +33,8 @@
       <b>Interested in joining us?:</b> Visit our <a href="https://github.com/TEAMMATES/teammates">Developer Website</a>.
     </p>
   </main>
+
+
   <footer>
     <section style="padding-left: 80%">
           <a href="https://www.facebook.com/"><img height="26px" weight="26px" src="images/facebook.png"></a>
