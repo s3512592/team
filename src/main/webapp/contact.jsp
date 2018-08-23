@@ -17,6 +17,48 @@
       Contact Us
     </h1>
     <img class="img-responsive" src="images/contact.png">
+    <div>
+    <form action="teammates@comp.nus.edu.sg" method="post" >
+     <div>
+      <label id="formname">
+      "Name"
+      <span>(Required)</span></label>
+      <input type="text" name="formname" value class="name" required aria-required="true">
+      </div>
+      
+      <div>
+      <label id="formemail">
+      "Email"
+      <span>(Required)</span></label>
+      <input type="text" name="formemail" value class="email" required aria-required="true">
+      </div>
+      
+      <div>
+      <label id="formcomment">
+      "Comment"
+      <span>(Required)</span></label>
+      <input type="text" name="formcomment" value class="Comment" required aria-required="true">
+      </div>
+      
+      <p>
+      <input type="submit" value="Submit" class="pushbutton-wide">
+      </p>
+    
+    
+    
+    
+    
+    
+    
+    
+    </form>
+    
+    </div>
+    
+    
+    
+    
+    
     <p>
       <b>Email:</b> You can contact us at the following email address - <a href="mailto:teammates@comp.nus.edu.sg">teammates@comp.nus.edu.sg</a>
     </p>
